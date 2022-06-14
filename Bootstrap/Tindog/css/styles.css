@@ -136,6 +136,25 @@ body {
     padding: 3% 2%
 }
 
+#cta{
+    padding: 7% 15%;
+    text-align: center;
+    background-color: #ff4c68;
+    color: #fff;
+}
+.cta-text{
+    width: 80%;
+    margin: auto;
+}
+
+#footer {
+    padding: 5% 5% 3%;
+    text-align: center;
+}
+.socials{
+    margin: 20px 10px;
+}
+
 /* Viewports */
 @media (max-width: 1028px) {
     #title{
